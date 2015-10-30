@@ -128,7 +128,7 @@
 		$btnOk.addClass(this.getBtnOkClass())
 			.html(this.getBtnOkLabel())
 			.prepend($('<i></i>').addClass(this.getBtnOkIcon()), " ")
-			.attr('href', this.getHref())
+//			.attr('href', this.getHref())
 			.attr('target', this.getTarget())
 			.off('click').on('click', function(event) {
 				options.onConfirm(event, that.$element);
