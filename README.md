@@ -1,6 +1,6 @@
-# bootstrap-confirmation v1.0.5
+# bootstrap-confirmation v1.0.6
 
-This is a fork of ethaizone's [original code](https://github.com/ethaizone/Bootstrap-Confirmation)
+This is a fork of https://github.com/tavicu/bs-confirmation, fork of ethaizone's [original code](https://github.com/ethaizone/Bootstrap-Confirmation)
 
 with some help from [jibe914](https://github.com/jibe914/Bootstrap-Confirmation)
 and [MisatoTremor](https://github.com/MisatoTremor/bootstrap-confirmation)
