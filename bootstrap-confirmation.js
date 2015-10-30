@@ -1,6 +1,6 @@
 /*!
- * Bootstrap Confirmation v1.0.5
- * https://github.com/tavicu/bs-confirmation
+ * Bootstrap Confirmation v1.0.6
+ * https://github.com/p0vidl0/bs-confirmation
  */
 +function ($) {
 	'use strict';
